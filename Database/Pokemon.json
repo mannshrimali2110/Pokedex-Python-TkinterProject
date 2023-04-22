@@ -16,7 +16,7 @@
     {
         "id": 3,
         "name": "Venusaur",
-        "Description": "Venusaur is a dual-type Grass / Poison Pokemon introduced in Generation I. It evolves from Ivysaur starting at level 32. It is the final form of Bulbasaur.",
+        "Description": "Venusaur is a dual-type GRASS / POISON Pokemon introduced in Generation I. It evolves from Ivysaur starting at level 32. It is the final form of Bulbasaur.",
         "type1": "GRASS",
         "type2": "POISON"
     },
@@ -24,147 +24,147 @@
         "id": 4,
         "name": "Charmander",
         "Description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
-        "type1": "Fire",
+        "type1": "FIRE",
         "type2": ""
     },
     {
         "id": 5,
         "name": "Charmeleon",
         "Description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
-        "type1": "Fire",
+        "type1": "FIRE",
         "type2": ""
     },
     {
         "id": 6,
         "name": "Charizard",
-        "Description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
-        "type1": "Fire",
-        "type2": "Flying"
+        "Description": "Spits FIRE that is hot enough to melt boulders. Known to cause forest FIREs unintentionally.",
+        "type1": "FIRE",
+        "type2": "FLYING"
     },
     {
         "id": 7,
         "name": "Squirtle",
         "Description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
-        "type1": "Water",
+        "type1": "WATER",
         "type2": ""
     },
     {
         "id": 8,
         "name": "Wartortle",
-        "Description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
-        "type1": "Water",
+        "Description": "Often hides in WATER to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+        "type1": "WATER",
         "type2": ""
     },
     {
         "id": 9,
         "name": "Blastoise",
-        "Description": "A brutal Pokemon with pressurized water jets on its shell. They are used for high speed tackles.",
-        "type1": "Water",
+        "Description": "A brutal Pokemon with pressurized WATER jets on its shell. They are used for high speed tackles.",
+        "type1": "WATER",
         "type2": ""
     },
     {
         "id": 10,
         "name": "Caterpie",
         "Description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
-        "type1": "Bug",
+        "type1": "BUG",
         "type2": ""
     },
     {
         "id": 11,
         "name": "Metapod",
         "Description": "This Pokemon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
-        "type1": "Bug",
+        "type1": "BUG",
         "type2": ""
     },
     {
         "id": 12,
         "name": "Butterfree",
         "Description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
-        "type1": "Bug",
-        "type2": "Flying"
+        "type1": "BUG",
+        "type2": "FLYING"
     },
     {
         "id": 13,
         "name": "Weedle",
-        "Description": "Often found in forests and grasslands. It has a sharp stinger on its head that injects poison.",
-        "type1": "Bug",
-        "type2": "Poison"
+        "Description": "Often found in forests and GRASSlands. It has a sharp stinger on its head that injects POISON.",
+        "type1": "BUG",
+        "type2": "POISON"
     },
     {
         "id": 14,
         "name": "Kakuna",
         "Description": "Kakuna is a yellow cocoon Pokemon",
-        "type1": "Bug",
-        "type2": "Poison"
+        "type1": "BUG",
+        "type2": "POISON"
     },
     {
         "id": 15,
         "name": "Beedrill",
-        "Description": "Beedrill is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Poison Bee Pokemon.",
-        "type1": "Bug",
-        "type2": "Poison"
+        "Description": "Beedrill is a BUG/POISON type Pokemon introduced in Generation 1. It is known as the POISON Bee Pokemon.",
+        "type1": "BUG",
+        "type2": "POISON"
     },
     {
         "id": 16,
         "name": "Pidgey",
-        "Description": "Pidgey is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Tiny Bird Pokemon.",
-        "type1": "Normal",
-        "type2": "Flying"
+        "Description": "Pidgey is a NORMAL/FLYING type Pokemon introduced in Generation 1. It is known as the Tiny Bird Pokemon.",
+        "type1": "NORMAL",
+        "type2": "FLYING"
     },
     {
         "id": 17,
         "name": "Pidgeotto",
-        "Description": "Pidgeotto is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Bird Pokemon.",
-        "type1": "Normal",
-        "type2": "Flying"
+        "Description": "Pidgeotto is a NORMAL/FLYING type Pokemon introduced in Generation 1. It is known as the Bird Pokemon.",
+        "type1": "NORMAL",
+        "type2": "FLYING"
     },
     {
         "id": 18,
         "name": "Pidgeot",
-        "Description": "Pidgeot is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Bird Pokemon.",
-        "type1": "Normal",
-        "type2": "Flying"
+        "Description": "Pidgeot is a NORMAL/FLYING type Pokemon introduced in Generation 1. It is known as the Bird Pokemon.",
+        "type1": "NORMAL",
+        "type2": "FLYING"
     },
     {
         "id": 19,
         "name": "Rattata",
-        "Description": "Rattata is a Normal type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
-        "type1": "Normal",
+        "Description": "Rattata is a NORMAL type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "NORMAL",
         "type2": ""
     },
     {
         "id": 20,
         "name": "Raticate",
-        "Description": "Raticate is a Normal type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
-        "type1": "Normal",
+        "Description": "Raticate is a NORMAL type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "NORMAL",
         "type2": ""
     },
     {
         "id": 21,
         "name": "Spearow",
-        "Description": "Spearow is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Tiny Bird Pokemon.",
-        "type1": "Normal",
-        "type2": "Flying"
+        "Description": "Spearow is a NORMAL/FLYING type Pokemon introduced in Generation 1. It is known as the Tiny Bird Pokemon.",
+        "type1": "NORMAL",
+        "type2": "FLYING"
     },
     {
         "id": 22,
         "name": "Fearow",
-        "Description": "Fearow is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Beak Pokemon.",
-        "type1": "Normal",
-        "type2": "Flying"
+        "Description": "Fearow is a NORMAL/FLYING type Pokemon introduced in Generation 1. It is known as the Beak Pokemon.",
+        "type1": "NORMAL",
+        "type2": "FLYING"
     },
     {
         "id": 23,
         "name": "Ekans",
-        "Description": "Ekans is a Poison type Pokemon introduced in Generation 1. It is known as the Snake Pokemon.",
-        "type1": "Poison",
+        "Description": "Ekans is a POISON type Pokemon introduced in Generation 1. It is known as the Snake Pokemon.",
+        "type1": "POISON",
         "type2": ""
     },
     {
         "id": 24,
         "name": "Arbok",
-        "Description": "Arbok is a Poison type Pokemon introduced in Generation 1. It is known as the Cobra Pokemon.",
-        "type1": "Poison",
+        "Description": "Arbok is a POISON type Pokemon introduced in Generation 1. It is known as the Cobra Pokemon.",
+        "type1": "POISON",
         "type2": ""
     },
     {
@@ -197,150 +197,150 @@
     },
     {
         "id": 29,
-        "name": "Nidoran\u2640",
-        "Description": "Nidoran\u2640 is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.",
-        "type1": "Poison",
+        "name": "Nidoran-M",
+        "Description": "Nidoran is a POISON type Pokemon introduced in Generation 1. It is known as the POISON Pin Pokemon.",
+        "type1": "POISON",
         "type2": ""
     },
     {
         "id": 30,
         "name": "Nidorina",
-        "Description": "Nidorina is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.",
-        "type1": "Poison",
+        "Description": "Nidorina is a POISON type Pokemon introduced in Generation 1. It is known as the POISON Pin Pokemon.",
+        "type1": "POISON",
         "type2": ""
     },
     {
         "id": 31,
         "name": "Nidoqueen",
-        "Description": "Nidoqueen is a Poison/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
-        "type1": "Poison",
+        "Description": "Nidoqueen is a POISON/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
+        "type1": "POISON",
         "type2": "Ground"
     },
     {
         "id": 32,
-        "name": "Nidoran\u2642",
-        "Description": "Nidoran\u2642 is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.",
-        "type1": "Poison",
+        "name": "Nidoran-F",
+        "Description": "Nidoran is a POISON type Pokemon introduced in Generation 1. It is known as the POISON Pin Pokemon.",
+        "type1": "POISON",
         "type2": ""
     },
     {
         "id": 33,
         "name": "Nidorino",
-        "Description": "Nidorino is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.",
-        "type1": "Poison",
+        "Description": "Nidorino is a POISON type Pokemon introduced in Generation 1. It is known as the POISON Pin Pokemon.",
+        "type1": "POISON",
         "type2": ""
     },
     {
         "id": 34,
         "name": "Nidoking",
-        "Description": "Nidoking is a Poison/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
-        "type1": "Poison",
+        "Description": "Nidoking is a POISON/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
+        "type1": "POISON",
         "type2": "Ground"
     },
     {
         "id": 35,
-        "name": "Clefairy",
-        "Description": "Clefairy is a Fairy type Pokemon introduced in Generation 1. It is known as the Fairy Pokemon.",
-        "type1": "Fairy",
+        "name": "CleFAIRY",
+        "Description": "CleFAIRY is a FAIRY type Pokemon introduced in Generation 1. It is known as the FAIRY Pokemon.",
+        "type1": "FAIRY",
         "type2": ""
     },
     {
         "id": 36,
         "name": "Clefable",
-        "Description": "Clefable is a Fairy type Pokemon introduced in Generation 1. It is known as the Fairy Pokemon.",
-        "type1": "Fairy",
+        "Description": "Clefable is a FAIRY type Pokemon introduced in Generation 1. It is known as the FAIRY Pokemon.",
+        "type1": "FAIRY",
         "type2": ""
     },
     {
         "id": 37,
         "name": "Vulpix",
-        "Description": "Vulpix is a Fire type Pokemon introduced in Generation 1. It is known as the Fox Pokemon.",
-        "type1": "Fire",
+        "Description": "Vulpix is a FIRE type Pokemon introduced in Generation 1. It is known as the Fox Pokemon.",
+        "type1": "FIRE",
         "type2": ""
     },
     {
         "id": 38,
         "name": "Ninetales",
-        "Description": "Ninetales is a Fire type Pokemon introduced in Generation 1. It is known as the Fox Pokemon.",
-        "type1": "Fire",
+        "Description": "Ninetales is a FIRE type Pokemon introduced in Generation 1. It is known as the Fox Pokemon.",
+        "type1": "FIRE",
         "type2": ""
     },
     {
         "id": 39,
         "name": "Jigglypuff",
-        "Description": "Jigglypuff is a Normal/Fairy type Pokemon introduced in Generation 1. It is known as the Balloon Pokemon.",
-        "type1": "Normal",
-        "type2": "Fairy"
+        "Description": "Jigglypuff is a NORMAL/FAIRY type Pokemon introduced in Generation 1. It is known as the Balloon Pokemon.",
+        "type1": "NORMAL",
+        "type2": "FAIRY"
     },
     {
         "id": 40,
         "name": "Wigglytuff",
-        "Description": "Wigglytuff is a Normal/Fairy type Pokemon introduced in Generation 1. It is known as the Balloon Pokemon.",
-        "type1": "Normal",
-        "type2": "Fairy"
+        "Description": "Wigglytuff is a NORMAL/FAIRY type Pokemon introduced in Generation 1. It is known as the Balloon Pokemon.",
+        "type1": "NORMAL",
+        "type2": "FAIRY"
     },
     {
         "id": 41,
         "name": "Zubat",
-        "Description": "Zubat is a Poison/Flying type Pokemon introduced in Generation 1. It is known as the Bat Pokemon.",
-        "type1": "Poison",
-        "type2": "Flying"
+        "Description": "Zubat is a POISON/FLYING type Pokemon introduced in Generation 1. It is known as the Bat Pokemon.",
+        "type1": "POISON",
+        "type2": "FLYING"
     },
     {
         "id": 42,
         "name": "Golbat",
-        "Description": "Golbat is a Poison/Flying type Pokemon introduced in Generation 1. It is known as the Bat Pokemon.",
-        "type1": "Poison",
-        "type2": "Flying"
+        "Description": "Golbat is a POISON/FLYING type Pokemon introduced in Generation 1. It is known as the Bat Pokemon.",
+        "type1": "POISON",
+        "type2": "FLYING"
     },
     {
         "id": 43,
         "name": "Oddish",
-        "Description": "Oddish is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Weed Pokemon.",
-        "type1": "Grass",
-        "type2": "Poison"
+        "Description": "Oddish is a GRASS/POISON type Pokemon introduced in Generation 1. It is known as the Weed Pokemon.",
+        "type1": "GRASS",
+        "type2": "POISON"
     },
     {
         "id": 44,
         "name": "Gloom",
-        "Description": "Gloom is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Weed Pokemon.",
-        "type1": "Grass",
-        "type2": "Poison"
+        "Description": "Gloom is a GRASS/POISON type Pokemon introduced in Generation 1. It is known as the Weed Pokemon.",
+        "type1": "GRASS",
+        "type2": "POISON"
     },
     {
         "id": 45,
         "name": "Vileplume",
-        "Description": "Vileplume is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Flower Pokemon.",
-        "type1": "Grass",
-        "type2": "Poison"
+        "Description": "Vileplume is a GRASS/POISON type Pokemon introduced in Generation 1. It is known as the Flower Pokemon.",
+        "type1": "GRASS",
+        "type2": "POISON"
     },
     {
         "id": 46,
         "name": "Paras",
-        "Description": "Paras is a Bug/Grass type Pokemon introduced in Generation 1. It is known as the Mushroom Pokemon.",
-        "type1": "Bug",
-        "type2": "Grass"
+        "Description": "Paras is a BUG/GRASS type Pokemon introduced in Generation 1. It is known as the Mushroom Pokemon.",
+        "type1": "BUG",
+        "type2": "GRASS"
     },
     {
         "id": 47,
         "name": "Parasect",
-        "Description": "Parasect is a Bug/Grass type Pokemon introduced in Generation 1. It is known as the Mushroom Pokemon.",
-        "type1": "Bug",
-        "type2": "Grass"
+        "Description": "Parasect is a BUG/GRASS type Pokemon introduced in Generation 1. It is known as the Mushroom Pokemon.",
+        "type1": "BUG",
+        "type2": "GRASS"
     },
     {
         "id": 48,
         "name": "Venonat",
-        "Description": "Venonat is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Insect Pokemon.",
-        "type1": "Bug",
-        "type2": "Poison"
+        "Description": "Venonat is a BUG/POISON type Pokemon introduced in Generation 1. It is known as the Insect Pokemon.",
+        "type1": "BUG",
+        "type2": "POISON"
     },
     {
         "id": 49,
         "name": "Venomoth",
-        "Description": "Venomoth is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Poison Moth Pokemon.",
-        "type1": "Bug",
-        "type2": "Poison"
+        "Description": "Venomoth is a BUG/POISON type Pokemon introduced in Generation 1. It is known as the POISON Moth Pokemon.",
+        "type1": "BUG",
+        "type2": "POISON"
     },
     {
         "id": 50,
@@ -373,7 +373,7 @@
     {
         "id": 54,
         "name": "Psyduck",
-        "Description": "Psyduck, a Water Pokemon. Uses mysterious power to perform various attacks. Psyduck constantly suffers from a headache.",
+        "Description": "Psyduck, a WATER Pokemon. Uses mysterious power to perform various attacks. Psyduck constantly suffers from a headache.",
         "type1": "WATER",
         "type2": "WATER"
     },
@@ -408,7 +408,7 @@
     {
         "id": 59,
         "name": "Arcanine",
-        "Description": "Arcanine, the Legendary Pokemon. Arcanine runs so smoothly it appears to be flying, and is known for its majestic cry.",
+        "Description": "Arcanine, the Legendary Pokemon. Arcanine runs so smoothly it appears to be FLYING, and is known for its majestic cry.",
         "type1": "FIRE",
         "type2": "FIRE"
     },
@@ -422,14 +422,14 @@
     {
         "id": 61,
         "name": "Poliwhirl",
-        "Description": "Poliwhirl, the Tadpole Pokemon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in water.",
+        "Description": "Poliwhirl, the Tadpole Pokemon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in WATER.",
         "type1": "WATER",
         "type2": "WATER"
     },
     {
         "id": 62,
         "name": "Poliwrath",
-        "Description": "Poliwhirl, the Tadpole Pokemon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in water.",
+        "Description": "Poliwhirl, the Tadpole Pokemon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in WATER.",
         "type1": "WATER",
         "type2": "FIGHTING"
     },
@@ -471,21 +471,21 @@
     {
         "id": 68,
         "name": "Machamp",
-        "Description": "Machamp, the Superpower Pokemon. A Fighting type. Machamp's four arms move reflexively, which makes it very fast and allows it to deliver rapid-fire punches.",
+        "Description": "Machamp, the Superpower Pokemon. A Fighting type. Machamp's four arms move reflexively, which makes it very fast and allows it to deliver rapid-FIRE punches.",
         "type1": "FIGHTING",
         "type2": "FIGHTING"
     },
     {
         "id": 69,
         "name": "Bellsprout",
-        "Description": "Bellsprout, the Flower Pokemon. A Grass and Poison type. Bellsprout loves high temperatures and humidity. It can be lightning fast when it extends its vines in order to grab something.",
+        "Description": "Bellsprout, the Flower Pokemon. A GRASS and POISON type. Bellsprout loves high temperatures and humidity. It can be lightning fast when it extends its vines in order to grab something.",
         "type1": "GRASS",
         "type2": "POISON"
     },
     {
         "id": 70,
         "name": "Weepinbell",
-        "Description": "Weepinbell, the Flycatcher Pokemon. Weepinbell looks like a plant and covers opponents with a poisonous powder in order to catch them.",
+        "Description": "Weepinbell, the Flycatcher Pokemon. Weepinbell looks like a plant and covers opponents with a POISONous powder in order to catch them.",
         "type1": "GRASS",
         "type2": "POISON"
     },
@@ -499,14 +499,14 @@
     {
         "id": 72,
         "name": "Tentacool",
-        "Description": "Tentacool, a Jellyfish Pokemon. 99% of its body is made up of water.",
+        "Description": "Tentacool, a Jellyfish Pokemon. 99% of its body is made up of WATER.",
         "type1": "WATER",
         "type2": "POISON"
     },
     {
         "id": 73,
         "name": "Tentacruel",
-        "Description": "Tentacruel, the Jellyfish Pokemon. Its potent poison stingers can quickly paralyze its victims.",
+        "Description": "Tentacruel, the Jellyfish Pokemon. Its potent POISON stingers can quickly paralyze its victims.",
         "type1": "WATER",
         "type2": "POISON"
     },
@@ -534,14 +534,14 @@
     {
         "id": 77,
         "name": "Ponyta",
-        "Description": "Ponyta, a Fire Horse Pokemon. Its mane is made of intense flames.",
+        "Description": "Ponyta, a FIRE Horse Pokemon. Its mane is made of intense flames.",
         "type1": "FIRE",
         "type2": "FIRE"
     },
     {
         "id": 78,
         "name": "Rapidash",
-        "Description": "Rapidash, the Fire Horse Pokemon. A Fire type. Rapidash loves to gallop. Whenever it sees something moving fast, it gets the urge to race.",
+        "Description": "Rapidash, the FIRE Horse Pokemon. A FIRE type. Rapidash loves to gallop. Whenever it sees something moving fast, it gets the urge to race.",
         "type1": "FIRE",
         "type2": "FIRE"
     },
@@ -598,13 +598,13 @@
         "id": 86,
         "name": "Seel",
         "Description": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
-        "type1": "WA\nTER",
+        "type1": "WATER",
         "type2": "WATER"
     },
     {
         "id": 87,
         "name": "Dewgong",
-        "Description": "Dewgong, the Sea Lion Pokemon. The evolved form of Seel. This Water/Ice Pokemon can easily resist extreme cold.",
+        "Description": "Dewgong, the Sea Lion Pokemon. The evolved form of Seel. This WATER/Ice Pokemon can easily resist extreme cold.",
         "type1": "WATER",
         "type2": "ICE"
     },
@@ -618,7 +618,7 @@
     {
         "id": 89,
         "name": "Muk",
-        "Description": "Muk, Grimer's evolved form. Use extreme caution, as its slimy form contains poison.",
+        "Description": "Muk, Grimer's evolved form. Use extreme caution, as its slimy form contains POISON.",
         "type1": "POISON",
         "type2": "POISON"
     },
@@ -758,14 +758,14 @@
     {
         "id": 109,
         "name": "Koffing",
-        "Description": "Koffing, the Poison Gas Pokemon. Koffing hovers in the air, thanks to the poisonous gases it contains, which have a foul odor and can explode.",
+        "Description": "Koffing, the POISON Gas Pokemon. Koffing hovers in the air, thanks to the POISONous gases it contains, which have a foul odor and can explode.",
         "type1": "POISON",
         "type2": "POISON"
     },
     {
         "id": 110,
         "name": "Weezing",
-        "Description": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
+        "Description": "Where two kinds of POISON gases meet, 2 Koffings can fuse into a Weezing over many years.",
         "type1": "POISON",
         "type2": "POISON"
     },
@@ -800,7 +800,7 @@
     {
         "id": 115,
         "name": "Kangaskhan",
-        "Description": "Kangaskhan, the Parent Pokemon. A Normal type. Kangaskhan carries a little one in the pouch on its belly and will protect it at all costs.",
+        "Description": "Kangaskhan, the Parent Pokemon. A NORMAL type. Kangaskhan carries a little one in the pouch on its belly and will protect it at all costs.",
         "type1": "NORMAL",
         "type2": "NORMAL"
     },
@@ -821,7 +821,7 @@
     {
         "id": 118,
         "name": "Goldeen",
-        "Description": "Goldeen, the Goldfish Pokemon. A Water type. When the weather warms up, Goldeen form schools and swim upriver. Some say this is a sign that spring has arrived.",
+        "Description": "Goldeen, the Goldfish Pokemon. A WATER type. When the weather warms up, Goldeen form schools and swim upriver. Some say this is a sign that spring has arrived.",
         "type1": "WATER",
         "type2": "WATER"
     },
@@ -835,7 +835,7 @@
     {
         "id": 120,
         "name": "Staryu",
-        "Description": "Staryu. The core of this Water Pokemon shines in a rainbow of seven colors, a core that is valued by some as a type of jewelry.",
+        "Description": "Staryu. The core of this WATER Pokemon shines in a rainbow of seven colors, a core that is valued by some as a type of jewelry.",
         "type1": "WATER",
         "type2": "WATER"
     },
@@ -877,7 +877,7 @@
     {
         "id": 126,
         "name": "Magmar",
-        "Description": "Magmar, the Spitfire Pokemon. Its body is like a furnace, making Magmar a living inferno. It has been discovered only near active volcanoes.",
+        "Description": "Magmar, the SpitFIRE Pokemon. Its body is like a furnace, making Magmar a living inferno. It has been discovered only near active volcanoes.",
         "type1": "FIRE",
         "type2": "FIRE"
     },
@@ -892,13 +892,13 @@
         "id": 128,
         "name": "Tauros",
         "Description": "Tauros, a Wild Bull Pokemon. When whipping itself with its three tails, its Tackle is a powerful destructive force.",
-        "type1": "Normal",
-        "type2": "Normal"
+        "type1": "NORMAL",
+        "type2": "NORMAL"
     },
     {
         "id": 129,
         "name": "Magikarp",
-        "Description": "Magikarp, the Fish Pokemon. Magikarp can live in the dirtiest of water. It jumps very well and can evolve into Gyarados.",
+        "Description": "Magikarp, the Fish Pokemon. Magikarp can live in the dirtiest of WATER. It jumps very well and can evolve into Gyarados.",
         "type1": "WATER",
         "type2": "WATER"
     },
@@ -933,7 +933,7 @@
     {
         "id": 134,
         "name": "Vaporeon",
-        "Description": "Vaporeon, the Bubble Jet Pokemon. Vaporeon love fresh, clean water and can make their bodies melt away into water as well.",
+        "Description": "Vaporeon, the Bubble Jet Pokemon. Vaporeon love fresh, clean WATER and can make their bodies melt away into WATER as well.",
         "type1": "WATER",
         "type2": "WATER"
     },
@@ -947,7 +947,7 @@
     {
         "id": 136,
         "name": "Flareon",
-        "Description": "Flareon, the Flame Pokemon. Flareon is the evolved form of Eevee. The air it inhales is ignited by a flame inside its body and expelled as fire.",
+        "Description": "Flareon, the Flame Pokemon. Flareon is the evolved form of Eevee. The air it inhales is ignited by a flame inside its body and expelled as FIRE.",
         "type1": "FIRE",
         "type2": "FIRE"
     },
@@ -989,7 +989,7 @@
     {
         "id": 142,
         "name": "Aerodactyl",
-        "Description": "Aerodactyl, the Fossil Pokemon. An ancient Flying type, it is equipped with sharp saw-like teeth.",
+        "Description": "Aerodactyl, the Fossil Pokemon. An ancient FLYING type, it is equipped with sharp saw-like teeth.",
         "type1": "ROCK",
         "type2": "FLYING"
     },
@@ -1010,7 +1010,7 @@
     {
         "id": 145,
         "name": "Zapdos",
-        "Description": "Zapdos, the Electric Pokemon. Zapdos has both Electric and Flying elements, and the flappage of its wings can create lightning.",
+        "Description": "Zapdos, the Electric Pokemon. Zapdos has both Electric and FLYING elements, and the flappage of its wings can create lightning.",
         "type1": "ELECTRIC",
         "type2": "FLYING"
     },
@@ -1024,7 +1024,7 @@
     {
         "id": 147,
         "name": "Dratini",
-        "Description": "Dratini, the Dragon Pokemon. Dratini sheds its skin as it grows, often doing so while hidden behind large powerful waterfalls.",
+        "Description": "Dratini, the Dragon Pokemon. Dratini sheds its skin as it grows, often doing so while hidden behind large powerful WATERfalls.",
         "type1": "DRAGON",
         "type2": "DRAGON"
     },
