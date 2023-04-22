@@ -21,7 +21,7 @@ def gui1():
 
         # Creating the connection object
         conn_obj = mysql.connector.connect(
-            host="localhost", user="root", passwd="", database="PYcapstone")
+            host="localhost", user="root", passwd="mannshrimali2003", database="PYcapstone")
 
         # creating the cursor object
         cur_obj = conn_obj.cursor()

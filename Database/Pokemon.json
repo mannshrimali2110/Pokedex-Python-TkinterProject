@@ -184,15 +184,15 @@
     {
         "id": 27,
         "name": "Sandshrew",
-        "Description": "Sandshrew is a Ground type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
-        "type1": "Ground",
+        "Description": "Sandshrew is a GROUND type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "GROUND",
         "type2": ""
     },
     {
         "id": 28,
         "name": "Sandslash",
-        "Description": "Sandslash is a Ground type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
-        "type1": "Ground",
+        "Description": "Sandslash is a GROUND type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "GROUND",
         "type2": ""
     },
     {
@@ -212,9 +212,9 @@
     {
         "id": 31,
         "name": "Nidoqueen",
-        "Description": "Nidoqueen is a POISON/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
+        "Description": "Nidoqueen is a POISON/GROUND type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
         "type1": "POISON",
-        "type2": "Ground"
+        "type2": "GROUND"
     },
     {
         "id": 32,
@@ -233,9 +233,9 @@
     {
         "id": 34,
         "name": "Nidoking",
-        "Description": "Nidoking is a POISON/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
+        "Description": "Nidoking is a POISON/GROUND type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
         "type1": "POISON",
-        "type2": "Ground"
+        "type2": "GROUND"
     },
     {
         "id": 35,
@@ -345,7 +345,7 @@
     {
         "id": 50,
         "name": "Diglet",
-        "Description": "Diglett, the Mole Pokemon. Diglett love to create underground tunnel systems.",
+        "Description": "Diglett, the Mole Pokemon. Diglett love to create underGROUND tunnel systems.",
         "type1": "GROUND",
         "type2": "GROUND"
     },
@@ -660,7 +660,7 @@
     {
         "id": 95,
         "name": "Onix",
-        "Description": "Onix, the Rock Snake Pokemon. It tunnels through the ground, which shakes when it raises its thunderous roar. It can move the ground at 50 miles per hour.",
+        "Description": "Onix, the Rock Snake Pokemon. It tunnels through the GROUND, which shakes when it raises its thunderous roar. It can move the GROUND at 50 miles per hour.",
         "type1": "ROCK",
         "type2": "GROUND"
     },
@@ -723,7 +723,7 @@
     {
         "id": 104,
         "name": "Cubone",
-        "Description": "A Ground-type Pokemon, Cubone has earned its classification as the Lonely Pokemon from its usual attitude of caring only for itself.",
+        "Description": "A GROUND-type Pokemon, Cubone has earned its classification as the Lonely Pokemon from its usual attitude of caring only for itself.",
         "type1": "GROUND",
         "type2": "GROUND"
     },
