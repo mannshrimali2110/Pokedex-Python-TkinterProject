@@ -1,5 +1,7 @@
 create database PYcapstone;
+
 use PYcapstone;
+
 create table pokedata
 (id int NOT NULL primary key,
 name char(30),

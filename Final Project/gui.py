@@ -8,6 +8,7 @@ OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = OUTPUT_PATH / \
     Path(r"./assets/frame0")
 
+
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
 
@@ -20,7 +21,7 @@ def gui1():
 
         # Creating the connection object
         conn_obj = mysql.connector.connect(
-            host="localhost", user="root", passwd="mannshrimali2003", database="PYcapstone")
+            host="localhost", user="root", passwd="", database="PYcapstone")
 
         # creating the cursor object
         cur_obj = conn_obj.cursor()
@@ -146,7 +147,7 @@ def gui1():
         fill="#0038FF",
         outline="")
 
-    poke_input=tkinter.StringVar()
+    poke_input = tkinter.StringVar()
 
     entry_image_1 = PhotoImage(
         file=relative_to_assets("entry_1.png"))

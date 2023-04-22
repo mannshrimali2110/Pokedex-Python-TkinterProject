@@ -6,8 +6,10 @@ OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = OUTPUT_PATH / \
     Path(r"./assets/frame1")
 
+
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
+
 
 def gui2(pokename, ofnum, type1, type2, desc):
 
