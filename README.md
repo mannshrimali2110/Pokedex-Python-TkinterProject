@@ -19,4 +19,4 @@ You will have to manually install following Python Libraries using PIP :
  Load the Pokemon.sql script in your Mysql Worbench and execute the commands.
  
 # Execution :
-Run 'gui.py'.
+Run 'gui.py' python file.
