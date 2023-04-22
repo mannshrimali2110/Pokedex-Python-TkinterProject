@@ -1,0 +1,1059 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "Description": "Bulbasaur has a 'bulb' on its back that grows steadily larger as it matures. This bulb contains a seed which uses photosynthesis to supply Bulbasaur with energy. It is known as the Seed Pokemon.",
+        "type1": "GRASS",
+        "type2": "POISON"
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "Description": "Ivysaur is a quadrupedal amphibian Pokemon that has blue-green skin with darker patches. On top of its head are pointed ears with black insides and it has narrow red eyes.",
+        "type1": "GRASS",
+        "type2": "POISON"
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "Description": "Venusaur is a dual-type Grass / Poison Pokemon introduced in Generation I. It evolves from Ivysaur starting at level 32. It is the final form of Bulbasaur.",
+        "type1": "GRASS",
+        "type2": "POISON"
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "Description": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+        "type1": "Fire",
+        "type2": ""
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "Description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+        "type1": "Fire",
+        "type2": ""
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "Description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+        "type1": "Fire",
+        "type2": "Flying"
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "Description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+        "type1": "Water",
+        "type2": ""
+    },
+    {
+        "id": 8,
+        "name": "Wartortle",
+        "Description": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+        "type1": "Water",
+        "type2": ""
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "Description": "A brutal Pokemon with pressurized water jets on its shell. They are used for high speed tackles.",
+        "type1": "Water",
+        "type2": ""
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "Description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "type1": "Bug",
+        "type2": ""
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "Description": "This Pokemon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+        "type1": "Bug",
+        "type2": ""
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "Description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+        "type1": "Bug",
+        "type2": "Flying"
+    },
+    {
+        "id": 13,
+        "name": "Weedle",
+        "Description": "Often found in forests and grasslands. It has a sharp stinger on its head that injects poison.",
+        "type1": "Bug",
+        "type2": "Poison"
+    },
+    {
+        "id": 14,
+        "name": "Kakuna",
+        "Description": "Kakuna is a yellow cocoon Pokemon",
+        "type1": "Bug",
+        "type2": "Poison"
+    },
+    {
+        "id": 15,
+        "name": "Beedrill",
+        "Description": "Beedrill is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Poison Bee Pokemon.",
+        "type1": "Bug",
+        "type2": "Poison"
+    },
+    {
+        "id": 16,
+        "name": "Pidgey",
+        "Description": "Pidgey is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Tiny Bird Pokemon.",
+        "type1": "Normal",
+        "type2": "Flying"
+    },
+    {
+        "id": 17,
+        "name": "Pidgeotto",
+        "Description": "Pidgeotto is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Bird Pokemon.",
+        "type1": "Normal",
+        "type2": "Flying"
+    },
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "Description": "Pidgeot is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Bird Pokemon.",
+        "type1": "Normal",
+        "type2": "Flying"
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "Description": "Rattata is a Normal type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "Normal",
+        "type2": ""
+    },
+    {
+        "id": 20,
+        "name": "Raticate",
+        "Description": "Raticate is a Normal type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "Normal",
+        "type2": ""
+    },
+    {
+        "id": 21,
+        "name": "Spearow",
+        "Description": "Spearow is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Tiny Bird Pokemon.",
+        "type1": "Normal",
+        "type2": "Flying"
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "Description": "Fearow is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Beak Pokemon.",
+        "type1": "Normal",
+        "type2": "Flying"
+    },
+    {
+        "id": 23,
+        "name": "Ekans",
+        "Description": "Ekans is a Poison type Pokemon introduced in Generation 1. It is known as the Snake Pokemon.",
+        "type1": "Poison",
+        "type2": ""
+    },
+    {
+        "id": 24,
+        "name": "Arbok",
+        "Description": "Arbok is a Poison type Pokemon introduced in Generation 1. It is known as the Cobra Pokemon.",
+        "type1": "Poison",
+        "type2": ""
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "Description": "Pikachu is an Electric type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "Electric",
+        "type2": ""
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "Description": "Raichu is an Electric type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "Electric",
+        "type2": ""
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "Description": "Sandshrew is a Ground type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "Ground",
+        "type2": ""
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "Description": "Sandslash is a Ground type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.",
+        "type1": "Ground",
+        "type2": ""
+    },
+    {
+        "id": 29,
+        "name": "Nidoran\u2640",
+        "Description": "Nidoran\u2640 is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.",
+        "type1": "Poison",
+        "type2": ""
+    },
+    {
+        "id": 30,
+        "name": "Nidorina",
+        "Description": "Nidorina is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.",
+        "type1": "Poison",
+        "type2": ""
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "Description": "Nidoqueen is a Poison/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
+        "type1": "Poison",
+        "type2": "Ground"
+    },
+    {
+        "id": 32,
+        "name": "Nidoran\u2642",
+        "Description": "Nidoran\u2642 is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.",
+        "type1": "Poison",
+        "type2": ""
+    },
+    {
+        "id": 33,
+        "name": "Nidorino",
+        "Description": "Nidorino is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.",
+        "type1": "Poison",
+        "type2": ""
+    },
+    {
+        "id": 34,
+        "name": "Nidoking",
+        "Description": "Nidoking is a Poison/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.",
+        "type1": "Poison",
+        "type2": "Ground"
+    },
+    {
+        "id": 35,
+        "name": "Clefairy",
+        "Description": "Clefairy is a Fairy type Pokemon introduced in Generation 1. It is known as the Fairy Pokemon.",
+        "type1": "Fairy",
+        "type2": ""
+    },
+    {
+        "id": 36,
+        "name": "Clefable",
+        "Description": "Clefable is a Fairy type Pokemon introduced in Generation 1. It is known as the Fairy Pokemon.",
+        "type1": "Fairy",
+        "type2": ""
+    },
+    {
+        "id": 37,
+        "name": "Vulpix",
+        "Description": "Vulpix is a Fire type Pokemon introduced in Generation 1. It is known as the Fox Pokemon.",
+        "type1": "Fire",
+        "type2": ""
+    },
+    {
+        "id": 38,
+        "name": "Ninetales",
+        "Description": "Ninetales is a Fire type Pokemon introduced in Generation 1. It is known as the Fox Pokemon.",
+        "type1": "Fire",
+        "type2": ""
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "Description": "Jigglypuff is a Normal/Fairy type Pokemon introduced in Generation 1. It is known as the Balloon Pokemon.",
+        "type1": "Normal",
+        "type2": "Fairy"
+    },
+    {
+        "id": 40,
+        "name": "Wigglytuff",
+        "Description": "Wigglytuff is a Normal/Fairy type Pokemon introduced in Generation 1. It is known as the Balloon Pokemon.",
+        "type1": "Normal",
+        "type2": "Fairy"
+    },
+    {
+        "id": 41,
+        "name": "Zubat",
+        "Description": "Zubat is a Poison/Flying type Pokemon introduced in Generation 1. It is known as the Bat Pokemon.",
+        "type1": "Poison",
+        "type2": "Flying"
+    },
+    {
+        "id": 42,
+        "name": "Golbat",
+        "Description": "Golbat is a Poison/Flying type Pokemon introduced in Generation 1. It is known as the Bat Pokemon.",
+        "type1": "Poison",
+        "type2": "Flying"
+    },
+    {
+        "id": 43,
+        "name": "Oddish",
+        "Description": "Oddish is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Weed Pokemon.",
+        "type1": "Grass",
+        "type2": "Poison"
+    },
+    {
+        "id": 44,
+        "name": "Gloom",
+        "Description": "Gloom is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Weed Pokemon.",
+        "type1": "Grass",
+        "type2": "Poison"
+    },
+    {
+        "id": 45,
+        "name": "Vileplume",
+        "Description": "Vileplume is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Flower Pokemon.",
+        "type1": "Grass",
+        "type2": "Poison"
+    },
+    {
+        "id": 46,
+        "name": "Paras",
+        "Description": "Paras is a Bug/Grass type Pokemon introduced in Generation 1. It is known as the Mushroom Pokemon.",
+        "type1": "Bug",
+        "type2": "Grass"
+    },
+    {
+        "id": 47,
+        "name": "Parasect",
+        "Description": "Parasect is a Bug/Grass type Pokemon introduced in Generation 1. It is known as the Mushroom Pokemon.",
+        "type1": "Bug",
+        "type2": "Grass"
+    },
+    {
+        "id": 48,
+        "name": "Venonat",
+        "Description": "Venonat is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Insect Pokemon.",
+        "type1": "Bug",
+        "type2": "Poison"
+    },
+    {
+        "id": 49,
+        "name": "Venomoth",
+        "Description": "Venomoth is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Poison Moth Pokemon.",
+        "type1": "Bug",
+        "type2": "Poison"
+    },
+    {
+        "id": 50,
+        "name": "Diglet",
+        "Description": "Diglett, the Mole Pokemon. Diglett love to create underground tunnel systems.",
+        "type1": "GROUND",
+        "type2": "GROUND"
+    },
+    {
+        "id": 51,
+        "name": "Dugtrio",
+        "Description": "Dugtrio, the evolved form of Diglett. No specific information available.",
+        "type1": "GROUND",
+        "type2": "GROUND"
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "Description": "Meowth, the Scratch Cat Pokemon. When it sees round objects, it plays and loses track of time.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 53,
+        "name": "Persian",
+        "Description": "Persian, the Classy Cat Pokemon and the evolved form of Meowth. Persian can walk silently thanks to its nimble muscles. It pounces on its prey at lightning speed.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "Description": "Psyduck, a Water Pokemon. Uses mysterious power to perform various attacks. Psyduck constantly suffers from a headache.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 55,
+        "name": "Golduck",
+        "Description": "Golduck, the Duck Pokemon. It makes its home in lakes, and is able to swim faster than a gold medalist.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 56,
+        "name": "Mankey",
+        "Description": "Mankey, a Pig Monkey Pokemon of the Fighting type. Known for its superior footwork, it packs a powerful punch.",
+        "type1": "FIGHTING",
+        "type2": "FIGHTING"
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "Description": "Primeape. If you make eye contact with this evolved form of Mankey, it will chase you forever.",
+        "type1": "FIGHTING",
+        "type2": "FIGHTING"
+    },
+    {
+        "id": 58,
+        "name": "Growlithe",
+        "Description": "Growlithe, a Puppy Pokemon of pleasant demeanor and great diligence. It drives enemies away with barks and bites.",
+        "type1": "FIRE",
+        "type2": "FIRE"
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "Description": "Arcanine, the Legendary Pokemon. Arcanine runs so smoothly it appears to be flying, and is known for its majestic cry.",
+        "type1": "FIRE",
+        "type2": "FIRE"
+    },
+    {
+        "id": 60,
+        "name": "Poliwag",
+        "Description": "Poliwag, the Tadpole Pokemon. It has no arms, but its tail makes it a strong swimmer.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 61,
+        "name": "Poliwhirl",
+        "Description": "Poliwhirl, the Tadpole Pokemon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in water.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 62,
+        "name": "Poliwrath",
+        "Description": "Poliwhirl, the Tadpole Pokemon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in water.",
+        "type1": "WATER",
+        "type2": "FIGHTING"
+    },
+    {
+        "id": 63,
+        "name": "Abra",
+        "Description": "Abra, the Psi Pokemon. When Abra senses an imminent attack, it escapes by teleporting.",
+        "type1": "PSYCHIC",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 64,
+        "name": "Kadabra",
+        "Description": "Kadabra, a Psychic Pokemon. The evolved form of Abra. Employs powerful telekinetic attacks.",
+        "type1": "PSYCHIC",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "Description": "Alakazam, a Psi Pokemon. This Pokemon uses Psychic attacks to overcome its opponents.",
+        "type1": "PSYCHIC",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 66,
+        "name": "Machop",
+        "Description": "Machop. Its body is pure muscle. Its special attack is the Seismic Toss.",
+        "type1": "FIGHTING",
+        "type2": "FIGHTING"
+    },
+    {
+        "id": 67,
+        "name": "Machoke",
+        "Description": "Machoke, the Superpower Pokemon. With enough strength to lift a giant truck with one hand, Machoke are often used for extremely heavy work.",
+        "type1": "FIGHTING",
+        "type2": "FIGHTING"
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "Description": "Machamp, the Superpower Pokemon. A Fighting type. Machamp's four arms move reflexively, which makes it very fast and allows it to deliver rapid-fire punches.",
+        "type1": "FIGHTING",
+        "type2": "FIGHTING"
+    },
+    {
+        "id": 69,
+        "name": "Bellsprout",
+        "Description": "Bellsprout, the Flower Pokemon. A Grass and Poison type. Bellsprout loves high temperatures and humidity. It can be lightning fast when it extends its vines in order to grab something.",
+        "type1": "GRASS",
+        "type2": "POISON"
+    },
+    {
+        "id": 70,
+        "name": "Weepinbell",
+        "Description": "Weepinbell, the Flycatcher Pokemon. Weepinbell looks like a plant and covers opponents with a poisonous powder in order to catch them.",
+        "type1": "GRASS",
+        "type2": "POISON"
+    },
+    {
+        "id": 71,
+        "name": "Victreebel",
+        "Description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+        "type1": "GRASS",
+        "type2": "POISON"
+    },
+    {
+        "id": 72,
+        "name": "Tentacool",
+        "Description": "Tentacool, a Jellyfish Pokemon. 99% of its body is made up of water.",
+        "type1": "WATER",
+        "type2": "POISON"
+    },
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "Description": "Tentacruel, the Jellyfish Pokemon. Its potent poison stingers can quickly paralyze its victims.",
+        "type1": "WATER",
+        "type2": "POISON"
+    },
+    {
+        "id": 74,
+        "name": "Geodude",
+        "Description": "Geodude, the Rock Pokemon. Geodude has incredibly high defensive power, making it virtually resistant to any physical attacks.",
+        "type1": "ROCK",
+        "type2": "GROUND"
+    },
+    {
+        "id": 75,
+        "name": "Graveler",
+        "Description": "Graveler, Alola Form. The Rock Pokemon. A Rock and Electric type. The evolved form of Geodude. Graveler like to eat rocks and are known to get into fights.",
+        "type1": "ROCK",
+        "type2": "GROUND"
+    },
+    {
+        "id": 76,
+        "name": "Golem",
+        "Description": "Golem, a Megaton Pokemon. Once a year it sheds its bedrock shell and grows larger.",
+        "type1": "ROCK",
+        "type2": "GROUND"
+    },
+    {
+        "id": 77,
+        "name": "Ponyta",
+        "Description": "Ponyta, a Fire Horse Pokemon. Its mane is made of intense flames.",
+        "type1": "FIRE",
+        "type2": "FIRE"
+    },
+    {
+        "id": 78,
+        "name": "Rapidash",
+        "Description": "Rapidash, the Fire Horse Pokemon. A Fire type. Rapidash loves to gallop. Whenever it sees something moving fast, it gets the urge to race.",
+        "type1": "FIRE",
+        "type2": "FIRE"
+    },
+    {
+        "id": 79,
+        "name": "Slowpoke",
+        "Description": "Slowpoke, the Dopey Pokemon. Slowpoke is always lost in thought, though no one knows what it's pondering.",
+        "type1": "WATER",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "Description": "Slowpoke, the Dopey Pokemon. Slowpoke is always lost in thought, though no one knows what it's pondering.",
+        "type1": "WATER",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 81,
+        "name": "Magnemite",
+        "Description": "Magnemite, a Magnet Pokemon. Its means of floating through the air are not understood. This very mysterious Pokemon is of the Electric type.",
+        "type1": "ELECTRIC",
+        "type2": "STEEL"
+    },
+    {
+        "id": 82,
+        "name": "Magneton",
+        "Description": "Magneton, the Magnet Pokemon. The evolved form of Magnemite. Its anti-gravitational powers allow it to float, and it can emit powerful magnetic and electric fields.",
+        "type1": "ELECTRIC",
+        "type2": "STEEL"
+    },
+    {
+        "id": 83,
+        "name": "Farfetchd",
+        "Description": "Farfetch'd, a Wild Duck Pokemon. Farfetch'd makes a delicious meal, especially when cooked with leek. Because of this, Farfetch'd is nearly extinct.",
+        "type1": "NORMAL",
+        "type2": "FLYING"
+    },
+    {
+        "id": 84,
+        "name": "Doduo",
+        "Description": "Doduo, the Twin Bird Pokemon. It runs faster than it can fly.",
+        "type1": "NORMAL",
+        "type2": "FLYING"
+    },
+    {
+        "id": 85,
+        "name": "Dodrio",
+        "Description": "Dodrio, a Triple Bird Pokemon. Its three heads represent joy, sorrow, and anger.",
+        "type1": "NORMAL",
+        "type2": "FLYING"
+    },
+    {
+        "id": 86,
+        "name": "Seel",
+        "Description": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
+        "type1": "WA\nTER",
+        "type2": "WATER"
+    },
+    {
+        "id": 87,
+        "name": "Dewgong",
+        "Description": "Dewgong, the Sea Lion Pokemon. The evolved form of Seel. This Water/Ice Pokemon can easily resist extreme cold.",
+        "type1": "WATER",
+        "type2": "ICE"
+    },
+    {
+        "id": 88,
+        "name": "Grimer",
+        "Description": "Grimer, a Sludge Pokemon. Born from sludge, these Pokemon specialize in Sludge attacks.",
+        "type1": "POISON",
+        "type2": "POISON"
+    },
+    {
+        "id": 89,
+        "name": "Muk",
+        "Description": "Muk, Grimer's evolved form. Use extreme caution, as its slimy form contains poison.",
+        "type1": "POISON",
+        "type2": "POISON"
+    },
+    {
+        "id": 90,
+        "name": "Shellder",
+        "Description": "At night, this Pokemon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 91,
+        "name": "Cloyster",
+        "Description": "At night, this Pokemon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+        "type1": "WATER",
+        "type2": "ICE"
+    },
+    {
+        "id": 92,
+        "name": "Gastly",
+        "Description": "Gastly, a Ghost Pokemon. It is usually invisible. Its specialty is Hypnosis.",
+        "type1": "GHOST",
+        "type2": "POISON"
+    },
+    {
+        "id": 93,
+        "name": "Haunter",
+        "Description": "Haunter, the Gas Pokemon. After evolving from Gastly, this Haunter can learn the Dream Eater and Psychic attacks.",
+        "type1": "GHOST",
+        "type2": "POISON"
+    },
+    {
+        "id": 94,
+        "name": "Genger",
+        "Description": "Gengar, a Shadow Pokemon. The evolved form of Haunter. Details about this Pokemon are unknown.",
+        "type1": "GHOST",
+        "type2": "POISON"
+    },
+    {
+        "id": 95,
+        "name": "Onix",
+        "Description": "Onix, the Rock Snake Pokemon. It tunnels through the ground, which shakes when it raises its thunderous roar. It can move the ground at 50 miles per hour.",
+        "type1": "ROCK",
+        "type2": "GROUND"
+    },
+    {
+        "id": 96,
+        "name": "Drowzee",
+        "Description": "Drowzee, the Hypnotic Pokemon. It is said to feed on the dreams of its opponents. It is also known for its powerful Psychic attack.",
+        "type1": "PSYCHIC",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 97,
+        "name": "Hypno",
+        "Description": "Hypno, a Hypnosis Pokemon. It carries a pendulum-like device and performs hypnotic attacks.",
+        "type1": "PSYCHIC",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 98,
+        "name": "Krabby",
+        "Description": "Krabby. Lives near the shore. Its average height is about 16 inches.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 99,
+        "name": "Kingler",
+        "Description": "Kingler, the Pincer Pokemon. The evolved form of Krabby. Its crushing claws make it a powerful opponent.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 100,
+        "name": "Voltorb",
+        "Description": "Voltorb. The identity of this creature is unknown. It has an extreme personality, uses Electric attacks, and at times self-destructs.",
+        "type1": "ELECTRIC",
+        "type2": "ELECTRIC"
+    },
+    {
+        "id": 101,
+        "name": "Electrode",
+        "Description": "lectrode, the evolved form of Voltorb. Highly concentrated electric energy causes this Pokemon to explode unpredictably.",
+        "type1": "ELECTRIC",
+        "type2": "ELECTRIC"
+    },
+    {
+        "id": 102,
+        "name": "Exeggcute",
+        "Description": "Exeggcute, an Egg Pokemon. Although it resembles an egg, it is known to be more closely related to the seed of a plant.",
+        "type1": "GRASS",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 103,
+        "name": "Exeggutor",
+        "Description": "Exeggutor, a Coconut Pokemon. Also known as The Walking Tropical Rainforest. Each coconut has a distinct face and its own character. Its special attack is Hypnosis.\n",
+        "type1": "GRASS",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 104,
+        "name": "Cubone",
+        "Description": "A Ground-type Pokemon, Cubone has earned its classification as the Lonely Pokemon from its usual attitude of caring only for itself.",
+        "type1": "GROUND",
+        "type2": "GROUND"
+    },
+    {
+        "id": 105,
+        "name": "Marowak",
+        "Description": "Marowak, a Bone Keeper Pokemon. Despite its small size, its offensive and defensive strength is impressive.",
+        "type1": "GROUND",
+        "type2": "GROUND"
+    },
+    {
+        "id": 106,
+        "name": "Hitmonlee",
+        "Description": "Hitmonlee, the Kicking Pokemon. This nimble Pokemon launches lethal kicks from almost any position.",
+        "type1": "FIGHTING",
+        "type2": "FIGHTING"
+    },
+    {
+        "id": 107,
+        "name": "Hitmonchan",
+        "Description": "Hitmonchan, a skilled Fighting Pokemon that packs an incredibly fast punch.",
+        "type1": "FIGHTING",
+        "type2": "FIGHTING"
+    },
+    {
+        "id": 108,
+        "name": "Kickitung",
+        "Description": "Lickitung, the Licking Pokemon. It uses a tongue that is more than twice the length of its body to battle, as well as to gather food.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 109,
+        "name": "Koffing",
+        "Description": "Koffing, the Poison Gas Pokemon. Koffing hovers in the air, thanks to the poisonous gases it contains, which have a foul odor and can explode.",
+        "type1": "POISON",
+        "type2": "POISON"
+    },
+    {
+        "id": 110,
+        "name": "Weezing",
+        "Description": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
+        "type1": "POISON",
+        "type2": "POISON"
+    },
+    {
+        "id": 111,
+        "name": "Rhyhorn",
+        "Description": "Rhyhorn, the Spiked Pokemon. Rhyhorn is known for its physical power and its considerable offensive and defensive battle skills.",
+        "type1": "GROUND",
+        "type2": "ROCK"
+    },
+    {
+        "id": 112,
+        "name": "Rhydon",
+        "Description": "Rhydon, the evolved form of Rhyhorn. It is known as the Drill Pokemon. Its large horn gives it formidable attack power.",
+        "type1": "GROUND",
+        "type2": "ROCK"
+    },
+    {
+        "id": 113,
+        "name": "Chansey",
+        "Description": "Chansey, the Egg Pokemon, and the evolved form of Happiny. Chansey is a kind Pokemon who shares its egg with those who are sick or injured.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 114,
+        "name": "Tangela",
+        "Description": "Tangela, a Vine Pokemon. Its body is wrapped in vines. The rest of its form is hidden beneath these vines.",
+        "type1": "GRASS",
+        "type2": "GRASS"
+    },
+    {
+        "id": 115,
+        "name": "Kangaskhan",
+        "Description": "Kangaskhan, the Parent Pokemon. A Normal type. Kangaskhan carries a little one in the pouch on its belly and will protect it at all costs.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 116,
+        "name": "Horsea",
+        "Description": "Horsea, a Dragon Pokemon. In this unique Pokemon species, thousands of Eggs hatch every spring, and then the male raises them himself.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 117,
+        "name": "Seadra",
+        "Description": "Seadra, the Dragon Pokemon. It is known for its horrible disposition, but possesses both strength and speed.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 118,
+        "name": "Goldeen",
+        "Description": "Goldeen, the Goldfish Pokemon. A Water type. When the weather warms up, Goldeen form schools and swim upriver. Some say this is a sign that spring has arrived.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 119,
+        "name": "Seaking",
+        "Description": "Seaking, the Goldfish Pokemon. Seaking is the evolved form of Goldeen. Its sharp, drill-like horn is capable of crushing even stone.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 120,
+        "name": "Staryu",
+        "Description": "Staryu. The core of this Water Pokemon shines in a rainbow of seven colors, a core that is valued by some as a type of jewelry.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 121,
+        "name": "Starmie",
+        "Description": "\tStarmie's center section - the core - glows brightly in seven colors. Because of its luminous nature, this Pokemon has been given the nickname as -the gem of the sea-.",
+        "type1": "WATER",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 122,
+        "name": "Mr.Mime",
+        "Description": "Mr. Mime, the Barrier Pokemon. By rapidly moving its fingers, Mr. Mime can stop air molecules to create an invisible wall.",
+        "type1": "PSYCHIC",
+        "type2": "FAIRY"
+    },
+    {
+        "id": 123,
+        "name": "Scyther",
+        "Description": "Scyther and Electabuzz are both rare Pokemon. They are able to distinguish colors and become enraged by the color red.",
+        "type1": "BUG",
+        "type2": "FLYING"
+    },
+    {
+        "id": 124,
+        "name": "Jynx",
+        "Description": "Jynx, the Human Shape Pokemon. This Pokemon has some very unusual powers. Its special attack is the Lovely Kiss, which puts its opponent into a deep sleep.",
+        "type1": "ICE",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 125,
+        "name": "Electabuzz",
+        "Description": "Scyther and Electabuzz are both rare Pokemon. They are able to distinguish colors and become enraged by the color red.",
+        "type1": "ELECTRIC",
+        "type2": "ELECTRIC"
+    },
+    {
+        "id": 126,
+        "name": "Magmar",
+        "Description": "Magmar, the Spitfire Pokemon. Its body is like a furnace, making Magmar a living inferno. It has been discovered only near active volcanoes.",
+        "type1": "FIRE",
+        "type2": "FIRE"
+    },
+    {
+        "id": 127,
+        "name": "Pinsir",
+        "Description": "Pinsir. This fearsome Pokemon uses its powerful claws to put the squeeze on its opponents.",
+        "type1": "BUG",
+        "type2": "BUG"
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "Description": "Tauros, a Wild Bull Pokemon. When whipping itself with its three tails, its Tackle is a powerful destructive force.",
+        "type1": "Normal",
+        "type2": "Normal"
+    },
+    {
+        "id": 129,
+        "name": "Magikarp",
+        "Description": "Magikarp, the Fish Pokemon. Magikarp can live in the dirtiest of water. It jumps very well and can evolve into Gyarados.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 130,
+        "name": "Gyarados",
+        "Description": "Gyarados. This Pokemon has a vicious temperament, so use extreme caution. Its fangs can crush stones and its scales are harder than steel.",
+        "type1": "WATER",
+        "type2": "FLYING"
+    },
+    {
+        "id": 131,
+        "name": "Lapras",
+        "Description": "Lapras, the Transport Pokemon. Lapras enjoys carrying people on its back, and it understands what people are saying.",
+        "type1": "WATER",
+        "type2": "ICE"
+    },
+    {
+        "id": 132,
+        "name": "Ditto",
+        "Description": "Ditto, a Transform Pokemon. It is able to rearrange the cells of its body and assume any form. Its only attack is Transform.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "Description": "Eevee, the Evolution Pokemon. It has the potential to evolve into any one of three different Pokemon.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 134,
+        "name": "Vaporeon",
+        "Description": "Vaporeon, the Bubble Jet Pokemon. Vaporeon love fresh, clean water and can make their bodies melt away into water as well.",
+        "type1": "WATER",
+        "type2": "WATER"
+    },
+    {
+        "id": 135,
+        "name": "Jolteon",
+        "Description": " Its cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokemon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+        "type1": "ELECTRIC",
+        "type2": "ELECTRIC"
+    },
+    {
+        "id": 136,
+        "name": "Flareon",
+        "Description": "Flareon, the Flame Pokemon. Flareon is the evolved form of Eevee. The air it inhales is ignited by a flame inside its body and expelled as fire.",
+        "type1": "FIRE",
+        "type2": "FIRE"
+    },
+    {
+        "id": 137,
+        "name": "Porygon",
+        "Description": "A Pokemon that consists entirely of programming code. Capable of moving freely in cyberspace.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 138,
+        "name": "Omanyte",
+        "Description": "Omanyte, the Spiral Pokemon. Believed to have lived over two billion years ago, recent research indicates that it was able to control its buoyancy by storing and releasing air in its shell.",
+        "type1": "ROCK",
+        "type2": "WATER"
+    },
+    {
+        "id": 139,
+        "name": "Omastar",
+        "Description": "Omastar, the evolved form of Omanyte. This extinct Pokemon is believed to have used its sharp fang to break through the shells of its prey in order to feed.",
+        "type1": "ROCK",
+        "type2": "WATER"
+    },
+    {
+        "id": 140,
+        "name": "Kabuto",
+        "Description": "Kabuto, the Ancient Pokemon. Though this Pokemon is now believed to be extinct, it had a hard shell that protected its body and is believed to have been a powerful swimmer.",
+        "type1": "ROCK",
+        "type2": "WATER"
+    },
+    {
+        "id": 141,
+        "name": "Kabutops",
+        "Description": "Omanyte and Omastar, Kabuto and Kabutops. It is believed these Pokemon became extinct tens of thousands of years ago. The detail of their behavior is shrouded in mystery. None of these Pokemon have ever been seen alive.",
+        "type1": "ROCK",
+        "type2": "WATER"
+    },
+    {
+        "id": 142,
+        "name": "Aerodactyl",
+        "Description": "Aerodactyl, the Fossil Pokemon. An ancient Flying type, it is equipped with sharp saw-like teeth.",
+        "type1": "ROCK",
+        "type2": "FLYING"
+    },
+    {
+        "id": 143,
+        "name": "Snorlax",
+        "Description": "Snorlax's hunger isn't satisfied until it consumes 900 pounds of food. Then it goes back to sleep.",
+        "type1": "NORMAL",
+        "type2": "NORMAL"
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "Description": "Articuno, the Freeze Pokemon. Articuno lives deep within mountain ranges, and is said to be able to fly by gracefully waving its tail.",
+        "type1": "ICE",
+        "type2": "FLYING"
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "Description": "Zapdos, the Electric Pokemon. Zapdos has both Electric and Flying elements, and the flappage of its wings can create lightning.",
+        "type1": "ELECTRIC",
+        "type2": "FLYING"
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "Description": "Moltres, a Legendary Pokemon. Its virtues symbolize the Pokemon League competitions.",
+        "type1": "FIRE",
+        "type2": "FLYING"
+    },
+    {
+        "id": 147,
+        "name": "Dratini",
+        "Description": "Dratini, the Dragon Pokemon. Dratini sheds its skin as it grows, often doing so while hidden behind large powerful waterfalls.",
+        "type1": "DRAGON",
+        "type2": "DRAGON"
+    },
+    {
+        "id": 148,
+        "name": "Dragonair",
+        "Description": "Dragonair, the Dragon Pokemon. Dragonair has the ability to manipulate the elements as it wishes.",
+        "type1": "DRAGON",
+        "type2": "DRAGON"
+    },
+    {
+        "id": 149,
+        "name": "Dragonite",
+        "Description": "Dragonite, the Dragon Pokemon. This extremely rare and highly intelligent type is able to fly faster than any known Pokemon.",
+        "type1": "DRAGON",
+        "type2": "FLYING"
+    },
+    {
+        "id": 150,
+        "name": "MewTwo",
+        "Description": "A Pokemon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.\n",
+        "type1": "PSYCHIC",
+        "type2": "PSYCHIC"
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "Description": "Mew is said to possess the genetic composition of all Pokemon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+        "type1": "PSYCHIC",
+        "type2": "PSYCHIC"
+    }
+]

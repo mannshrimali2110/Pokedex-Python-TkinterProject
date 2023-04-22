@@ -1,0 +1,155 @@
+id,name,Description,type1,type2
+1,Bulbasaur,Bulbasaur has a 'bulb' on its back that grows steadily larger as it matures. This bulb contains a seed which uses photosynthesis to supply Bulbasaur with energy. It is known as the Seed Pokemon.,GRASS,POISON
+2,Ivysaur,Ivysaur is a quadrupedal amphibian Pokemon that has blue-green skin with darker patches. On top of its head are pointed ears with black insides and it has narrow red eyes.,GRASS,POISON
+3,Venusaur,Venusaur is a dual-type Grass / Poison Pokemon introduced in Generation I. It evolves from Ivysaur starting at level 32. It is the final form of Bulbasaur.,GRASS,POISON
+4,Charmander,"Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",Fire,
+5,Charmeleon,"When it swings its burning tail, it elevates the temperature to unbearably high levels.",Fire,
+6,Charizard,Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.,Fire,Flying
+7,Squirtle,"After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",Water,
+8,Wartortle,"Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",Water,
+9,Blastoise,A brutal Pokemon with pressurized water jets on its shell. They are used for high speed tackles.,Water,
+10,Caterpie,Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.,Bug,
+11,Metapod,"This Pokemon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",Bug,
+12,Butterfree,"In battle, it flaps its wings at high speed to release highly toxic dust into the air.",Bug,Flying
+13,Weedle,Often found in forests and grasslands. It has a sharp stinger on its head that injects poison.,Bug,Poison
+14,Kakuna,Kakuna is a yellow cocoon Pokemon,Bug,Poison
+15,Beedrill,Beedrill is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Poison Bee Pokemon.,Bug,Poison
+16,Pidgey,Pidgey is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Tiny Bird Pokemon.,Normal,Flying
+17,Pidgeotto,Pidgeotto is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Bird Pokemon.,Normal,Flying
+18,Pidgeot,Pidgeot is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Bird Pokemon.,Normal,Flying
+19,Rattata,Rattata is a Normal type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.,Normal,
+20,Raticate,Raticate is a Normal type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.,Normal,
+21,Spearow,Spearow is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Tiny Bird Pokemon.,Normal,Flying
+22,Fearow,Fearow is a Normal/Flying type Pokemon introduced in Generation 1. It is known as the Beak Pokemon.,Normal,Flying
+23,Ekans,Ekans is a Poison type Pokemon introduced in Generation 1. It is known as the Snake Pokemon.,Poison,
+24,Arbok,Arbok is a Poison type Pokemon introduced in Generation 1. It is known as the Cobra Pokemon.,Poison,
+25,Pikachu,Pikachu is an Electric type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.,Electric,
+26,Raichu,Raichu is an Electric type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.,Electric,
+27,Sandshrew,Sandshrew is a Ground type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.,Ground,
+28,Sandslash,Sandslash is a Ground type Pokemon introduced in Generation 1. It is known as the Mouse Pokemon.,Ground,
+29,Nidoran♀,Nidoran♀ is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.,Poison,
+30,Nidorina,Nidorina is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.,Poison,
+31,Nidoqueen,Nidoqueen is a Poison/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.,Poison,Ground
+32,Nidoran♂,Nidoran♂ is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.,Poison,
+33,Nidorino,Nidorino is a Poison type Pokemon introduced in Generation 1. It is known as the Poison Pin Pokemon.,Poison,
+34,Nidoking,Nidoking is a Poison/Ground type Pokemon introduced in Generation 1. It is known as the Drill Pokemon.,Poison,Ground
+35,Clefairy,Clefairy is a Fairy type Pokemon introduced in Generation 1. It is known as the Fairy Pokemon.,Fairy,
+36,Clefable,Clefable is a Fairy type Pokemon introduced in Generation 1. It is known as the Fairy Pokemon.,Fairy,
+37,Vulpix,Vulpix is a Fire type Pokemon introduced in Generation 1. It is known as the Fox Pokemon.,Fire,
+38,Ninetales,Ninetales is a Fire type Pokemon introduced in Generation 1. It is known as the Fox Pokemon.,Fire,
+39,Jigglypuff,Jigglypuff is a Normal/Fairy type Pokemon introduced in Generation 1. It is known as the Balloon Pokemon.,Normal,Fairy
+40,Wigglytuff,Wigglytuff is a Normal/Fairy type Pokemon introduced in Generation 1. It is known as the Balloon Pokemon.,Normal,Fairy
+41,Zubat,Zubat is a Poison/Flying type Pokemon introduced in Generation 1. It is known as the Bat Pokemon.,Poison,Flying
+42,Golbat,Golbat is a Poison/Flying type Pokemon introduced in Generation 1. It is known as the Bat Pokemon.,Poison,Flying
+43,Oddish,Oddish is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Weed Pokemon.,Grass,Poison
+44,Gloom,Gloom is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Weed Pokemon.,Grass,Poison
+45,Vileplume,Vileplume is a Grass/Poison type Pokemon introduced in Generation 1. It is known as the Flower Pokemon.,Grass,Poison
+46,Paras,Paras is a Bug/Grass type Pokemon introduced in Generation 1. It is known as the Mushroom Pokemon.,Bug,Grass
+47,Parasect,Parasect is a Bug/Grass type Pokemon introduced in Generation 1. It is known as the Mushroom Pokemon.,Bug,Grass
+48,Venonat,Venonat is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Insect Pokemon.,Bug,Poison
+49,Venomoth,Venomoth is a Bug/Poison type Pokemon introduced in Generation 1. It is known as the Poison Moth Pokemon.,Bug,Poison
+50,Diglet,"Diglett, the Mole Pokemon. Diglett love to create underground tunnel systems.",GROUND,GROUND
+51,Dugtrio,"Dugtrio, the evolved form of Diglett. No specific information available.",GROUND,GROUND
+52,Meowth,"Meowth, the Scratch Cat Pokemon. When it sees round objects, it plays and loses track of time.",NORMAL,NORMAL
+53,Persian,"Persian, the Classy Cat Pokemon and the evolved form of Meowth. Persian can walk silently thanks to its nimble muscles. It pounces on its prey at lightning speed.",NORMAL,NORMAL
+54,Psyduck,"Psyduck, a Water Pokemon. Uses mysterious power to perform various attacks. Psyduck constantly suffers from a headache.",WATER,WATER
+55,Golduck,"Golduck, the Duck Pokemon. It makes its home in lakes, and is able to swim faster than a gold medalist.",WATER,WATER
+56,Mankey,"Mankey, a Pig Monkey Pokemon of the Fighting type. Known for its superior footwork, it packs a powerful punch.",FIGHTING,FIGHTING
+57,Primeape,"Primeape. If you make eye contact with this evolved form of Mankey, it will chase you forever.",FIGHTING,FIGHTING
+58,Growlithe,"Growlithe, a Puppy Pokemon of pleasant demeanor and great diligence. It drives enemies away with barks and bites.",FIRE,FIRE
+59,Arcanine,"Arcanine, the Legendary Pokemon. Arcanine runs so smoothly it appears to be flying, and is known for its majestic cry.",FIRE,FIRE
+60,Poliwag,"Poliwag, the Tadpole Pokemon. It has no arms, but its tail makes it a strong swimmer.",WATER,WATER
+61,Poliwhirl,"Poliwhirl, the Tadpole Pokemon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in water.",WATER,WATER
+62,Poliwrath,"Poliwhirl, the Tadpole Pokemon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in water.",WATER,FIGHTING
+63,Abra,"Abra, the Psi Pokemon. When Abra senses an imminent attack, it escapes by teleporting.",PSYCHIC,PSYCHIC
+64,Kadabra,"Kadabra, a Psychic Pokemon. The evolved form of Abra. Employs powerful telekinetic attacks.",PSYCHIC,PSYCHIC
+65,Alakazam,"Alakazam, a Psi Pokemon. This Pokemon uses Psychic attacks to overcome its opponents.",PSYCHIC,PSYCHIC
+66,Machop,Machop. Its body is pure muscle. Its special attack is the Seismic Toss.,FIGHTING,FIGHTING
+67,Machoke,"Machoke, the Superpower Pokemon. With enough strength to lift a giant truck with one hand, Machoke are often used for extremely heavy work.",FIGHTING,FIGHTING
+68,Machamp,"Machamp, the Superpower Pokemon. A Fighting type. Machamp's four arms move reflexively, which makes it very fast and allows it to deliver rapid-fire punches.",FIGHTING,FIGHTING
+69,Bellsprout,"Bellsprout, the Flower Pokemon. A Grass and Poison type. Bellsprout loves high temperatures and humidity. It can be lightning fast when it extends its vines in order to grab something.",GRASS,POISON
+70,Weepinbell,"Weepinbell, the Flycatcher Pokemon. Weepinbell looks like a plant and covers opponents with a poisonous powder in order to catch them.",GRASS,POISON
+71,Victreebel,"Said to live in huge colonies deep in jungles, although no one has ever returned from there.",GRASS,POISON
+72,Tentacool,"Tentacool, a Jellyfish Pokemon. 99% of its body is made up of water.",WATER,POISON
+73,Tentacruel,"Tentacruel, the Jellyfish Pokemon. Its potent poison stingers can quickly paralyze its victims.",WATER,POISON
+74,Geodude,"Geodude, the Rock Pokemon. Geodude has incredibly high defensive power, making it virtually resistant to any physical attacks.",ROCK,GROUND
+75,Graveler,"Graveler, Alola Form. The Rock Pokemon. A Rock and Electric type. The evolved form of Geodude. Graveler like to eat rocks and are known to get into fights.",ROCK,GROUND
+76,Golem,"Golem, a Megaton Pokemon. Once a year it sheds its bedrock shell and grows larger.",ROCK,GROUND
+77,Ponyta,"Ponyta, a Fire Horse Pokemon. Its mane is made of intense flames.",FIRE,FIRE
+78,Rapidash,"Rapidash, the Fire Horse Pokemon. A Fire type. Rapidash loves to gallop. Whenever it sees something moving fast, it gets the urge to race.",FIRE,FIRE
+79,Slowpoke,"Slowpoke, the Dopey Pokemon. Slowpoke is always lost in thought, though no one knows what it's pondering.",WATER,PSYCHIC
+80,Slowbro,"Slowpoke, the Dopey Pokemon. Slowpoke is always lost in thought, though no one knows what it's pondering.",WATER,PSYCHIC
+81,Magnemite,"Magnemite, a Magnet Pokemon. Its means of floating through the air are not understood. This very mysterious Pokemon is of the Electric type.",ELECTRIC,STEEL
+82,Magneton,"Magneton, the Magnet Pokemon. The evolved form of Magnemite. Its anti-gravitational powers allow it to float, and it can emit powerful magnetic and electric fields.",ELECTRIC,STEEL
+83,Farfetchd,"Farfetch'd, a Wild Duck Pokemon. Farfetch'd makes a delicious meal, especially when cooked with leek. Because of this, Farfetch'd is nearly extinct.",NORMAL,FLYING
+84,Doduo,"Doduo, the Twin Bird Pokemon. It runs faster than it can fly.",NORMAL,FLYING
+85,Dodrio,"Dodrio, a Triple Bird Pokemon. Its three heads represent joy, sorrow, and anger.",NORMAL,FLYING
+86,Seel,"Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.","WA
+TER",WATER
+87,Dewgong,"Dewgong, the Sea Lion Pokemon. The evolved form of Seel. This Water/Ice Pokemon can easily resist extreme cold.",WATER,ICE
+88,Grimer,"Grimer, a Sludge Pokemon. Born from sludge, these Pokemon specialize in Sludge attacks.",POISON,POISON
+89,Muk,"Muk, Grimer's evolved form. Use extreme caution, as its slimy form contains poison.",POISON,POISON
+90,Shellder,"At night, this Pokemon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",WATER,WATER
+91,Cloyster,"At night, this Pokemon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",WATER,ICE
+92,Gastly,"Gastly, a Ghost Pokemon. It is usually invisible. Its specialty is Hypnosis.",GHOST,POISON
+93,Haunter,"Haunter, the Gas Pokemon. After evolving from Gastly, this Haunter can learn the Dream Eater and Psychic attacks.",GHOST,POISON
+94,Genger,"Gengar, a Shadow Pokemon. The evolved form of Haunter. Details about this Pokemon are unknown.",GHOST,POISON
+95,Onix,"Onix, the Rock Snake Pokemon. It tunnels through the ground, which shakes when it raises its thunderous roar. It can move the ground at 50 miles per hour.",ROCK,GROUND
+96,Drowzee,"Drowzee, the Hypnotic Pokemon. It is said to feed on the dreams of its opponents. It is also known for its powerful Psychic attack.",PSYCHIC,PSYCHIC
+97,Hypno,"Hypno, a Hypnosis Pokemon. It carries a pendulum-like device and performs hypnotic attacks.",PSYCHIC,PSYCHIC
+98,Krabby,Krabby. Lives near the shore. Its average height is about 16 inches.,WATER,WATER
+99,Kingler,"Kingler, the Pincer Pokemon. The evolved form of Krabby. Its crushing claws make it a powerful opponent.",WATER,WATER
+100,Voltorb,"Voltorb. The identity of this creature is unknown. It has an extreme personality, uses Electric attacks, and at times self-destructs.",ELECTRIC,ELECTRIC
+101,Electrode,"lectrode, the evolved form of Voltorb. Highly concentrated electric energy causes this Pokemon to explode unpredictably.",ELECTRIC,ELECTRIC
+102,Exeggcute,"Exeggcute, an Egg Pokemon. Although it resembles an egg, it is known to be more closely related to the seed of a plant.",GRASS,PSYCHIC
+103,Exeggutor,"Exeggutor, a Coconut Pokemon. Also known as The Walking Tropical Rainforest. Each coconut has a distinct face and its own character. Its special attack is Hypnosis.
+",GRASS,PSYCHIC
+104,Cubone,"A Ground-type Pokemon, Cubone has earned its classification as the Lonely Pokemon from its usual attitude of caring only for itself.",GROUND,GROUND
+105,Marowak,"Marowak, a Bone Keeper Pokemon. Despite its small size, its offensive and defensive strength is impressive.",GROUND,GROUND
+106,Hitmonlee,"Hitmonlee, the Kicking Pokemon. This nimble Pokemon launches lethal kicks from almost any position.",FIGHTING,FIGHTING
+107,Hitmonchan,"Hitmonchan, a skilled Fighting Pokemon that packs an incredibly fast punch.",FIGHTING,FIGHTING
+108,Kickitung,"Lickitung, the Licking Pokemon. It uses a tongue that is more than twice the length of its body to battle, as well as to gather food.",NORMAL,NORMAL
+109,Koffing,"Koffing, the Poison Gas Pokemon. Koffing hovers in the air, thanks to the poisonous gases it contains, which have a foul odor and can explode.",POISON,POISON
+110,Weezing,"Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",POISON,POISON
+111,Rhyhorn,"Rhyhorn, the Spiked Pokemon. Rhyhorn is known for its physical power and its considerable offensive and defensive battle skills.",GROUND,ROCK
+112,Rhydon,"Rhydon, the evolved form of Rhyhorn. It is known as the Drill Pokemon. Its large horn gives it formidable attack power.",GROUND,ROCK
+113,Chansey,"Chansey, the Egg Pokemon, and the evolved form of Happiny. Chansey is a kind Pokemon who shares its egg with those who are sick or injured.",NORMAL,NORMAL
+114,Tangela,"Tangela, a Vine Pokemon. Its body is wrapped in vines. The rest of its form is hidden beneath these vines.",GRASS,GRASS
+115,Kangaskhan,"Kangaskhan, the Parent Pokemon. A Normal type. Kangaskhan carries a little one in the pouch on its belly and will protect it at all costs.",NORMAL,NORMAL
+116,Horsea,"Horsea, a Dragon Pokemon. In this unique Pokemon species, thousands of Eggs hatch every spring, and then the male raises them himself.",WATER,WATER
+117,Seadra,"Seadra, the Dragon Pokemon. It is known for its horrible disposition, but possesses both strength and speed.",WATER,WATER
+118,Goldeen,"Goldeen, the Goldfish Pokemon. A Water type. When the weather warms up, Goldeen form schools and swim upriver. Some say this is a sign that spring has arrived.",WATER,WATER
+119,Seaking,"Seaking, the Goldfish Pokemon. Seaking is the evolved form of Goldeen. Its sharp, drill-like horn is capable of crushing even stone.",WATER,WATER
+120,Staryu,"Staryu. The core of this Water Pokemon shines in a rainbow of seven colors, a core that is valued by some as a type of jewelry.",WATER,WATER
+121,Starmie,"	Starmie's center section - the core - glows brightly in seven colors. Because of its luminous nature, this Pokemon has been given the nickname as -the gem of the sea-.",WATER,PSYCHIC
+122,Mr.Mime,"Mr. Mime, the Barrier Pokemon. By rapidly moving its fingers, Mr. Mime can stop air molecules to create an invisible wall.",PSYCHIC,FAIRY
+123,Scyther,Scyther and Electabuzz are both rare Pokemon. They are able to distinguish colors and become enraged by the color red.,BUG,FLYING
+124,Jynx,"Jynx, the Human Shape Pokemon. This Pokemon has some very unusual powers. Its special attack is the Lovely Kiss, which puts its opponent into a deep sleep.",ICE,PSYCHIC
+125,Electabuzz,Scyther and Electabuzz are both rare Pokemon. They are able to distinguish colors and become enraged by the color red.,ELECTRIC,ELECTRIC
+126,Magmar,"Magmar, the Spitfire Pokemon. Its body is like a furnace, making Magmar a living inferno. It has been discovered only near active volcanoes.",FIRE,FIRE
+127,Pinsir,Pinsir. This fearsome Pokemon uses its powerful claws to put the squeeze on its opponents.,BUG,BUG
+128,Tauros,"Tauros, a Wild Bull Pokemon. When whipping itself with its three tails, its Tackle is a powerful destructive force.",Normal,Normal
+129,Magikarp,"Magikarp, the Fish Pokemon. Magikarp can live in the dirtiest of water. It jumps very well and can evolve into Gyarados.",WATER,WATER
+130,Gyarados,"Gyarados. This Pokemon has a vicious temperament, so use extreme caution. Its fangs can crush stones and its scales are harder than steel.",WATER,FLYING
+131,Lapras,"Lapras, the Transport Pokemon. Lapras enjoys carrying people on its back, and it understands what people are saying.",WATER,ICE
+132,Ditto,"Ditto, a Transform Pokemon. It is able to rearrange the cells of its body and assume any form. Its only attack is Transform.",NORMAL,NORMAL
+133,Eevee,"Eevee, the Evolution Pokemon. It has the potential to evolve into any one of three different Pokemon.",NORMAL,NORMAL
+134,Vaporeon,"Vaporeon, the Bubble Jet Pokemon. Vaporeon love fresh, clean water and can make their bodies melt away into water as well.",WATER,WATER
+135,Jolteon," Its cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokemon to drop thunderbolts. The bristling fur is made of electrically charged needles.",ELECTRIC,ELECTRIC
+136,Flareon,"Flareon, the Flame Pokemon. Flareon is the evolved form of Eevee. The air it inhales is ignited by a flame inside its body and expelled as fire.",FIRE,FIRE
+137,Porygon,A Pokemon that consists entirely of programming code. Capable of moving freely in cyberspace.,NORMAL,NORMAL
+138,Omanyte,"Omanyte, the Spiral Pokemon. Believed to have lived over two billion years ago, recent research indicates that it was able to control its buoyancy by storing and releasing air in its shell.",ROCK,WATER
+139,Omastar,"Omastar, the evolved form of Omanyte. This extinct Pokemon is believed to have used its sharp fang to break through the shells of its prey in order to feed.",ROCK,WATER
+140,Kabuto,"Kabuto, the Ancient Pokemon. Though this Pokemon is now believed to be extinct, it had a hard shell that protected its body and is believed to have been a powerful swimmer.",ROCK,WATER
+141,Kabutops,"Omanyte and Omastar, Kabuto and Kabutops. It is believed these Pokemon became extinct tens of thousands of years ago. The detail of their behavior is shrouded in mystery. None of these Pokemon have ever been seen alive.",ROCK,WATER
+142,Aerodactyl,"Aerodactyl, the Fossil Pokemon. An ancient Flying type, it is equipped with sharp saw-like teeth.",ROCK,FLYING
+143,Snorlax,Snorlax's hunger isn't satisfied until it consumes 900 pounds of food. Then it goes back to sleep.,NORMAL,NORMAL
+144,Articuno,"Articuno, the Freeze Pokemon. Articuno lives deep within mountain ranges, and is said to be able to fly by gracefully waving its tail.",ICE,FLYING
+145,Zapdos,"Zapdos, the Electric Pokemon. Zapdos has both Electric and Flying elements, and the flappage of its wings can create lightning.",ELECTRIC,FLYING
+146,Moltres,"Moltres, a Legendary Pokemon. Its virtues symbolize the Pokemon League competitions.",FIRE,FLYING
+147,Dratini,"Dratini, the Dragon Pokemon. Dratini sheds its skin as it grows, often doing so while hidden behind large powerful waterfalls.",DRAGON,DRAGON
+148,Dragonair,"Dragonair, the Dragon Pokemon. Dragonair has the ability to manipulate the elements as it wishes.",DRAGON,DRAGON
+149,Dragonite,"Dragonite, the Dragon Pokemon. This extremely rare and highly intelligent type is able to fly faster than any known Pokemon.",DRAGON,FLYING
+150,MewTwo,"A Pokemon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.
+",PSYCHIC,PSYCHIC
+151,Mew,"Mew is said to possess the genetic composition of all Pokemon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",PSYCHIC,PSYCHIC
